@@ -1,0 +1,1 @@
+print(b'Ripam kundu'.decode("utf-8"))

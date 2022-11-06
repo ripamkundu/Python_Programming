@@ -1,0 +1,18 @@
+    Python Program to Get Line Count of a File
+    Python Program to Differentiate Between del, remove, and pop on a List
+    Python Program to Find All File with .txt Extension Present Inside a Directory x
+    Python Program to Get File Creation and Modification Date x
+    Python Program to Get the Full Path of the Current Working Directory
+    Python Program to Iterate Through Two Lists in Parallel
+    Python Program to Check the File Size
+    Python Program to Reverse a Number
+    Python Program to Compute the Power of a Number x
+    Python Program to Count the Number of Digits Present In a Number
+    Python Program to Check If Two Strings are Anagram
+    Python Program to Capitalize the First Character of a String
+    Python Program to Compute all the Permutation of the String x
+    Python Program to Create a Countdown Timer x
+    Python Program to Count the Number of Occurrence of a Character in String x
+    Python Program to Remove Duplicate Element From a List x
+    Python Program to Convert Bytes to a String
+

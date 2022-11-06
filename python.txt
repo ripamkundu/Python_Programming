@@ -1,0 +1,11 @@
+Python All function & mode
+
+"rb" mode opens the file in binary format for reading.
+"wb" mode opens the file in binary format for writing.
+os.mkdir() method in Python is used to create a directory named path with the specified numeric mode.
+Enumerate() method adds a counter to an iterable and returns it in a form of enumerating object.
+Dictionary holds key : value pair. In Python Dictionary, items() method is used to return the list with all dictionary keys with values.
+stat() method in Python performs stat() system call on the specified path.
+st_mode: It represents file type and file mode bits.
+
+bincount() function count number of occurrences of each value in an array of non-negative integers in the range of the array between the minimum and maximum values including the values that did not occur.
